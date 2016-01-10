@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 homework is terrible
+=======
+why the first edittin≈?
+>>>>>>> 716d1e93f55803782ea3f367d23f6e0961900747
